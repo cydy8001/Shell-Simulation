@@ -1,0 +1,19 @@
+                    User Stories                                                                                        Time estimate
+1. As a command user, I want to quit the program			                     12 hours	
+2. As a command user, I want to make 2 directories			     1 day	
+3. As a command user, I want to change current directory path		     2 days
+4. As a command user, I want to list all files and directories in given path	     1 day
+5. As a command user, I want to know the current working directory		     1 day
+6. As a command user, I want to saves the current working directory		     1 day
+7. As a command user, I want to change to new working directory                            12 hours
+ after saving the current working directory
+8. As a command user, I want to get back to the directory I saved in near time          1 day
+9. As a command user, I want to know recent commands			      1 day
+10. As a command user, I want to display the string                                                     12 hours  
+11. As a command user, I want to display the file                                                         1 day
+12.. As a command user, I want to override the file                                                      1 day
+13. As a command user, I want to append the file                                                        1 day
+14. As a command user, I want to know the documentation for commands                1 day
+15. As a command user, I want to open the shell                                                          8 hours
+16. As a command user, I want to close the shell                                                          8 hours
+17. As a command user, I want to use command line in shell                                       2 days

@@ -1,0 +1,14 @@
+                    User Stories                                                                                        Time estimate
+1. As a command user, I want to remove directory		                     	12 hours	
+2. As a command user, I want to make some directories			     1 day	
+3. As a command user, I want to list directories, files or subfiles and subdirectories    2 days
+4. As a command user, I want to move file and directory			     1 day
+5. As a command user, I want to copy directory				     1 day
+6. As a command user, I want to display files				     1 day
+7. As a command user, I want to Retrieve the file
+ at that URL and add it to the current working directory                        		   12 hours
+8. As a command user, I want to Print documentation for CMD for only one argument  1 day
+9. As a command user, I want to have saveJshell to save filesystem		      1 day
+10. As a command user, I want to have loadJshell to load filesystem	                      12 hours  
+11. As a command user, I want to  search files or directories based on given name    1 day
+12.. As a command user, I want to display filesystem by tree                                        1 day

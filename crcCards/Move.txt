@@ -1,0 +1,10 @@
+Class name: Move
+
+Parent Class: Command 
+
+Subclasses: None
+
+Responsibilities: 
+     - move a file or directory to the given path
+
+Collaborators: TxtFile, Directory

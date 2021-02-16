@@ -1,0 +1,9 @@
+Class name: Tree
+
+Parent Class: Command 
+
+Subclasses: None
+
+Responsibilities: List the files and directories starting from root. Increment by one tab for each level of directory.
+
+Collaborators: DirectoryList, File

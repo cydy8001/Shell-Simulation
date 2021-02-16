@@ -1,0 +1,11 @@
+Class name: Search
+
+Parent Class: Command 
+
+Subclasses: None
+
+Responsibilities: 
+     - search for the file or directory from given paths
+     - print the paths of the searched file or directory
+
+Collaborators: Directory

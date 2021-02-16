@@ -1,0 +1,10 @@
+Class name: Curl
+
+Parent Class: Command 
+
+Subclasses: None
+
+Responsibilities: 
+     - download the file from the given URL
+
+Collaborators: TxtFile

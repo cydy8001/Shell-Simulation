@@ -1,0 +1,9 @@
+Class name: Popd
+
+Parent Class: Command 
+
+Subclasses: None
+
+Responsibilities: Return Back to the previous directory
+
+Collaborators: DirectoryList

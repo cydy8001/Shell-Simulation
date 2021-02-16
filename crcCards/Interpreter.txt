@@ -1,0 +1,9 @@
+Class name: Interpreter
+
+Parent Class: None 
+
+Subclasses: None
+
+Responsibilities: Parse the command line given by user
+
+Collaborators: Command

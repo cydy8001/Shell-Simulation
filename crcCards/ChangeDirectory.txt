@@ -1,0 +1,9 @@
+Class name: ChangeDirectory
+
+Parent Class: Command
+
+Subclasses: None
+
+Responsibilities: Change to the directory given by the user 
+
+Collaborators: DiretoryList

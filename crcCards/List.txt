@@ -1,0 +1,9 @@
+Class name: List
+
+Parent Class: Command 
+
+Subclasses: None
+
+Responsibilities: List the content of the given directory  
+
+Collaborators: DirectoryList

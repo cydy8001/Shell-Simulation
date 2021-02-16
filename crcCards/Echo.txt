@@ -1,0 +1,11 @@
+Class name: Echo
+
+Parent Class: Command 
+
+Subclasses: None
+
+Responsibilities: 
+     -override or appending content to a txt file
+     -print string on Jshell if no file is given by user
+
+Collaborators: Directory

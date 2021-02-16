@@ -1,0 +1,9 @@
+Class name: MakeDirectory
+
+Parent Class: Command  
+
+Subclasses: None
+
+Responsibilities: Create the directories given by user 
+
+Collaborators: Directory

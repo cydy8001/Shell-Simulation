@@ -1,0 +1,11 @@
+Class name: LoadJShell
+
+Parent Class: Command
+
+Subclasses: None
+
+Responsibilities: 
+		-It is used to read a file from user computer.
+		-Initializing the current status of the JShell to the previously saved JShell.
+
+Collaborators: None

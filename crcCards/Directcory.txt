@@ -1,0 +1,9 @@
+Class name: Directory
+
+Parent Class: File
+
+Subclasses: None
+
+Responsibilities:  Store the text files
+
+Collaborators: Txfiles

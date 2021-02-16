@@ -1,0 +1,11 @@
+Class name: Pushd
+
+Parent Class: Command 
+
+Subclasses: None
+
+Responsibilities: 
+    -Save the current directory
+    -Change the current working directory to the one given by the user
+
+Collaborators: Directory, DirectoryList

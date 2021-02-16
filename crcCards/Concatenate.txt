@@ -1,0 +1,10 @@
+Class name: Concatenate
+
+Parent Class: Command 
+
+Subclasses: None
+
+Responsibilities: 
+     -Print the text stored in the input file to shell
+
+Collaborators: Directory, TxtFile

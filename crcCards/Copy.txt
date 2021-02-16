@@ -1,0 +1,12 @@
+Class name: Copy
+
+Parent Class: Command
+
+Subclasses: None
+
+Responsibilities: 
+     -It copies the content of a file to another file
+     -It also copies a file into another directory
+     
+
+Collaborators: None

@@ -1,0 +1,12 @@
+Class name: JShell
+
+Parent Class: None
+
+Subclasses: None
+
+Responsibilities: 
+Accept the instructions from user
+Execute the command from user
+Provide error message to user
+
+Collaborators: Interpreter

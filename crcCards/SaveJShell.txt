@@ -1,0 +1,9 @@
+Class name: SaveJShell
+
+Parent Class: Command 
+
+Subclasses: None
+
+Responsibilities: Save the history of input commands into a file on the current computer.
+
+Collaborators: History

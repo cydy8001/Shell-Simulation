@@ -1,0 +1,36 @@
+//Sprint 1 Backlog.  
+October 21 to October 27
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a. As a command user, I want to quit the program			    	
+b. As a command user, I want to make 2 directories			     	
+c. As a command user, I want to change current directory path		     
+d. As a command user, I want to list all files and directories in given path
+e. As a command user, I want to use command line in shell             
+                                           
+Specific tasks to be accomplished:
+a-1. (exit)Write the base code of exit class 
+a-2. (Test)Write the test code for exit in test class
+b-1. (mkdir)Write the base code of mkdir class
+b-2. (Test)Write the test code for mkdir in test class
+c-1. (cd)Wirte the base code of cd class
+c-2. (Test)Write the test code for cd in test class
+d-1. (ls)Write the base code of ls class
+d-2. (Test)Write the test code for ls in test class
+e-1. (JShell) Begin coding the structure of the command line interpreter
+e-2. (JShell) Have the shell continually prompt the user for input
+e-3. (JShell) Parse the user input for proper keywords
+These tasks are assigned as follows:
+
+User: Hongkang Yu
+Tasks: e-1, e-2, e-3
+
+User: Yihang Cheng
+Tasks: a-1, a-2, d-2
+
+User:  Linjun Wang 
+Tasks: b-1, b-2
+
+User: Naman Bhandari 
+Tasks: c-1, c-2, d-1

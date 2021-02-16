@@ -1,0 +1,50 @@
+//Sprint 1 Backlog.  
+November 16 to November 22
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a. As a command user, I want to remove directory		                     	
+b. As a command user, I want to make some directories			    
+c. As a command user, I want to list directories, files or subfiles and subdirectories   
+d. As a command user, I want to move file and directory		
+e. As a command user, I want to copy directory				
+f. As a command user, I want to display files				   
+g. As a command user, I want to Retrieve the file         
+                                           
+Specific tasks to be accomplished:
+a-1. (rm)Write the base code of rm
+a-2. (Test)Write the test code for remove in test class to test rm
+b-1. (mkdir)Complete the additional function of mkdir class
+b-2. (Test)Write the test code for mkdir in test class to test mkdir
+c-1. (ls)Write the additional code of ls class
+c-2. (Test)Write the test code for ls in test class to test ls
+d-1. (mv) Write the base code of mv
+d-2. (Test) Write the test code for mv in test class to test mv
+e-1. (cp) Write the base code for cp
+e-2. (Test) Write the test code in test class to test cp
+f-1. (cat) Write the additional code for cat
+f-2. (Test) Write the test code for cat to test cat
+g-1. (curl) Write the base code for curl 
+g-2. (Test) Write the test code for curl to test curl
+h-1 (Test) Write the test code for pwd
+h-2 (Test) Write the test code for cd
+h-3 (Test) Write the test code for echo
+h-4 (Test) Write the test code for pushd
+h-5 (Test) Write the test code for popd
+h-6 (Test) Write the test code for history
+h-7 (Test) Write the test code for exit
+
+
+These tasks are assigned as follows:
+
+User: Hongkang Yu
+Tasks: d-1,d-2. g-1, g-2, h-3
+
+User: Yihang Cheng
+Tasks: a-1, a-2, c-1, c-2, h-4, h-7
+
+User:  Linjun Wang 
+Tasks: b-1, b-2, f-1, f-2, h-5
+
+User: Naman Bhandari 
+Tasks: e-1, e-2, h-1, h-2, h -6

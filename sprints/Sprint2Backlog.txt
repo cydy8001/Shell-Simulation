@@ -1,0 +1,46 @@
+//Sprint 2 Backlog.  
+October 28 to November 3
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a. As a command user, I want to know the current working directory		     
+b. As a command user, I want to saves the current working directory		     
+c. As a command user, I want to change to new working directory                           
+ after saving the current working directory
+d. As a command user, I want to get back to the directory I saved in near time    
+e. As a command user, I want to display the file    
+f. As a command user, I want to open the shell                                                          
+g. As a command user, I want to close the shell     
+h.As a command user, I want to know recent commands                                                  
+i. As a command user, I want to override the file                                                     
+j. As a command user, I want to append the file                                                        
+k. As a command user, I want to know the documentation for commands   
+
+Specific tasks to be accomplished:
+a-1. (PrintWorkingDirectory)Write the base code of PrintWorkingDirectory class 
+a-2  (DirectoryList) Write the base code of DirectoryList
+b-1. (Pushd)Write the base code of Pushd class to saves the current working directory
+c-1. (Pushd)Wirte the base code of Pushd class to change to new working directory
+d-1. (Popd)Write the base code of Popd class
+e-1. (Concactate)Write the base code of Concactate class
+f-1 (JShell) Write the base code for opening shell of Jshell class 
+g-1 (JShell) Write the base code for closing shell of Jshell class 
+h-1. (History) Write the base code for History class
+i-1. (Echo) Write the base code for Echo class for overriding
+j-1. (Echo) Write the base code for Echo class for appending
+k-1. (Man) Write the base code for Man class 
+l-1 Write the base code for EmptyCommandException and FalseCommandException class
+m-1 Write the base code for Directory File Txtfile class
+These tasks are assigned as follows:
+
+User: Hongkang Yu
+Tasks: b-1,c-1,j-1
+
+User: Yihang Cheng
+Tasks: a-2,k-1,l-1,m-1, f-1
+
+User:  Linjun Wang 
+Tasks: a-1, d-1,i-1
+
+User: Naman Bhandari 
+Tasks: e-1, g-1,h-1

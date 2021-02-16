@@ -1,0 +1,32 @@
+//Sprint 3 Backlog.  
+November 4 to November 10
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a. As a command user, I want to saves the current working directory		     
+b. As a command user, I want to change to new working directory                           
+ after saving the current working directory
+c. As a command user, I want to get back to the directory I saved in near time    
+d. As a command user, I want to know recent commands	
+e. As a command user, I want to display the file 
+
+Specific tasks to be accomplished:
+a-1. (Pushd)Continue to write the base code of Pushd class to saves the current working directory
+a-2. (Pushd)Continue to write the base code of Pushd class to change to new working directory
+b-1. (Popd)Continue to write the base code of Popd class
+c-1. (History) Continue to write the base code for History class
+d-1. (Concactate)Continue to write the base code of Concactate class
+e-1. (ManTest) Write the test code for ManTest
+These tasks are assigned as follows:
+
+User: Hongkang Yu
+Tasks: a-1, a-2
+
+User: Yihang Cheng
+Tasks: e-1
+
+User:  Linjun Wang 
+Tasks: b-1 
+
+User: Naman Bhandari 
+Tasks: c-1, d-1

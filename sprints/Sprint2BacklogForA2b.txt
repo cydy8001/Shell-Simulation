@@ -1,0 +1,36 @@
+//Sprint 1 Backlog.  
+November 23 to November 30
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a. As a command user, I want to Print documentation for CMD for only one argument  
+b. As a command user, I want to have saveJshell to save filesystem		      
+c. As a command user, I want to have loadJshell to load filesystem	                      
+d. As a command user, I want to  search files or directories based on given name    
+e. As a command user, I want to display filesystem by tree 
+
+Specific tasks to be accomplished:
+a-1. (man )Write the additional code for man
+a-2. (Test) Write the test code for man
+b-1. (saveJShell) Write the base code for saveJShell
+b-2. (Test) Write the test code for saveJShell
+c-1. (loadJShell) Write the code for loadJShell
+c-2. (Test) Write the test code for loadJShell
+d-1. (search) Write the code for search 
+d-2. (Test) Write the test code for search
+e-1. (tree) Write the code for tree
+e-2. (Test) Write the test code for tree
+
+These tasks are assigned as follows:
+
+User: Hongkang Yu
+Tasks: d-1, d-2,
+
+User: Yihang Cheng
+Tasks: a-1, a-2
+
+User:  Linjun Wang 
+Tasks: b-1, b-2, e-1
+
+User: Naman Bhandari 
+Tasks: c-1, c-2, e-2

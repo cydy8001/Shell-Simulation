@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - completed the appending function in command echo
+
+What do I plan to work in the next three days?
+    - test the completed commands on JShell
+    - continue working on pushd command
+
+Am I blocked on anything?
+    - None

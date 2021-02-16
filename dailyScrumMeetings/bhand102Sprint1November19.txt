@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Understanding what LoadJShell has to do
+
+What do I plan to work in the next three days?
+    - Working on LoadJShell implementation 
+    - Testing code for LoadJShell.
+
+Am I blocked on anything?
+    - LoadJShell base code

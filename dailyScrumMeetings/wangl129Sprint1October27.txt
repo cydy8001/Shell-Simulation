@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - completed task for sprint 1
+    - finished class mkdir
+
+What do I plan to work in the next three days?
+    - work on the classes Working Directory, Echo and Popd
+
+Am I blocked on anything?
+    - Not yet

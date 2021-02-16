@@ -1,0 +1,12 @@
+a) What did I work on in the last three days? 
+    - worked on sprint backlog.
+    - evised all the steps for Scrum Software Development Process
+
+b) What do I plan to work in the next three days?
+    - Worked on base code for cd and ls class.
+    - Figuring out test code for cd class.
+
+c) Am I blocked on anything?
+    - Reviewing file system to get more familiar with my responsibilities. 
+
+

@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Complete all tasks in sprint2
+    - 
+
+What do I plan to work in the next three days?
+
+    - Write Junit files in sprint3
+
+Am I blocked on anything?
+    - No

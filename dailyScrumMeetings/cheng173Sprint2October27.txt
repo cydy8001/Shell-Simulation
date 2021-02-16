@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - worked on creating exception classes
+    - brainstormed design ideas with team for ls
+    - worked on creating directory tree
+What do I plan to work in the next three days?
+
+    - work on pushd, poped
+
+Am I blocked on anything?
+    - No

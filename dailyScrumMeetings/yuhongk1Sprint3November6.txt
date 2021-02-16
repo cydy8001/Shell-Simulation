@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Completed the code for pushd and make it work as we want
+
+What do I plan to work in the next three days?
+    - Do tests to the command I worte
+    - Debug the code
+
+Am I blocked on anything?
+    - None

@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - Gained some knowledge about testing in java to do testing accordingly.
+    - brainstormed design ideas with team for cd
+    - worked on additional classes to support the working of List class.
+What do I plan to work in the next three days?
+
+    - To work on base code of closing shell
+    - To work on base code of history class.
+
+Am I blocked on anything?
+    - No

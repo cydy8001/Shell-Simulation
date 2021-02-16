@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Fixed several bugs in Echo, Mkdir
+    - Completed crccards for Echo, Popd and Mkdir
+
+What do I plan to work in the next three days?
+    - Complete the checks and fix potential errors
+
+Am I blocked on anything?
+    - I need to check our design again to see the collaborators and sub/parent classes

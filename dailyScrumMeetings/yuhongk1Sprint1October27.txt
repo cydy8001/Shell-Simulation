@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    - Completed the main sturcture of JShell and Interpreter
+
+What do I plan to work in the next three days?
+    - work on the tasks in Sprint2
+
+Am I blocked on anything?
+    - Need to add the code about Exceptions after more command is completed

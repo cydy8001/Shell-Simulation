@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - completed the remove class
+
+
+What do I plan to work in the next three days?
+    - working on remove test
+    - working on a1 test
+
+Am I blocked on anything?
+    - No

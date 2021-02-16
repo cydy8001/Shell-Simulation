@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    - Finished Class Tree
+
+What do I plan to work in the next three days?
+    - Continue working on Sprint2 in saveJShell
+
+Am I blocked on anything?
+    - No

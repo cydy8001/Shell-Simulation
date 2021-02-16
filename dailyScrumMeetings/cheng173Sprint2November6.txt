@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - Complete cat and history
+    - 
+
+What do I plan to work in the next three days?
+
+    - Try to write Junit for Man class
+
+Am I blocked on anything?
+    - No

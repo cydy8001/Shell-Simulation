@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - Working on class Search
+
+What do I plan to work in the next three days?
+    - Write the test code for Search, Echo and Curl
+    - Complete Search
+
+Am I blocked on anything?
+    - None

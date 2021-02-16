@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - completed the sprint1 backlog 
+    - assigned the tasks of sprint1 between group members 
+
+What do I plan to work in the next three days?
+    - start working on the base code of mkdir
+    - test the mkdir class and write the test code in the test driver
+
+Am I blocked on anything?
+    - I need to review the java I/O and the file system before doing the task

@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - make some changes in directory list
+
+
+What do I plan to work in the next three days?
+    - working on a1 test
+
+Am I blocked on anything?
+    - No

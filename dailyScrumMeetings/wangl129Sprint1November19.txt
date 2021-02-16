@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    - Worked on mkdir	
+
+What do I plan to work in the next three days?
+    - Finish mkdir and work on cat, together with their test codes
+
+Am I blocked on anything?
+    - No

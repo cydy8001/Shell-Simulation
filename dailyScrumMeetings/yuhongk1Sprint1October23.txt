@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+    - worked on the designing the Shell program
+
+What do I plan to work in the next three days?
+    - finish the Shell program
+    - test the Shell program
+
+Am I blocked on anything?
+    - complete the Shell program for exit, cd , mkdir and ls before continune

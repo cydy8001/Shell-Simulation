@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+    - worked on Manual classes
+    - Debuged for Manual class
+
+What do I plan to work in the next three days?
+
+    - help to design Cd pattern
+
+Am I blocked on anything?
+    - No

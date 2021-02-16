@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+    - Finished modification of MakeDirectory and checked Concatenation	
+
+What do I plan to work in the next three days?
+    - Continue working on Sprint2 and help others check their code
+
+Am I blocked on anything?
+    - No
